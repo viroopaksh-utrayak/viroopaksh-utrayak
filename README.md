@@ -1,8 +1,4 @@
 ## Hey Everyone  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, here is all Accnts
-<!-- my insta  -->
-<!-- <a href="https://www.instagram.com/viroopaksh_utrayak/">
-  <img align="right" width="70px" src="https://user-images.githubusercontent.com/85174042/154459948-7b1e6136-ad36-4ee6-9c5c-c1b42411dfa1.png"  />
-</a> -->
 
 <!-- my twitter -->
 <a href="https://twitter.com/utrayak">
