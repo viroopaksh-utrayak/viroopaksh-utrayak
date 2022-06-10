@@ -2,8 +2,19 @@
 
 <!-- my twitter -->
 <a href="https://twitter.com/utrayak">
-  <img align="right" width="70px" src="https://user-images.githubusercontent.com/85174042/154462820-49716211-b863-4588-b5e5-529e9f52c3e3.png"  />
+  <img align="right" width="70px" src="twitter.png"  />
 </a>
+
+<!-- my instagram -->
+<a href="https://www.instagram.com/viroopaksh_utrayak/">
+  <img align="right" width="70px" src="instagram.png"  />
+</a>
+
+<!-- leetCode -->
+<a href="https://leetcode.com/viroopaksh_utrayak/">
+  <img align="right" width="70px" src="leetcode.png"  />
+</a>
+
 <h3> I'm  Learner.😊<h3/>
 
 <!-- my image -->
