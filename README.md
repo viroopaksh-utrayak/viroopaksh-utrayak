@@ -1,4 +1,4 @@
-## Hey Everyone  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, here is my account
+## Hey Everyone  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px">, here is my account
 
 <!-- my twitter -->
 <a href="https://twitter.com/utrayak">
