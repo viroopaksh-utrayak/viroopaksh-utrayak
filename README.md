@@ -12,7 +12,7 @@
 
 <!-- leetCode -->
 <a href="https://leetcode.com/viroopaksh_utrayak/">
-  <img align="right" width="70px" src="leetcode.png"  />
+  <img align="right" width="70px" src="leetcode.svg"  />
 </a>
 
 <h3> I'm  Learner.😊<h3/>
